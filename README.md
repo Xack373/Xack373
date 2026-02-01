@@ -25,11 +25,9 @@ Salom! Men **Black Hack**, turli texnologiyalar bo‘yicha tajribaga ega dasturc
   <img src="https://img.shields.io/badge/CarModeling-80%25-red?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 
-> Shu tarzda barcha skillar uchun **animated badge shields** ishlatish mumkin. Bu README’ga jonlilik beradi. 🎉
-
 ---
 
-## 📂 Projects (Animated GIF Preview)
+## 📂 Projects
 
 ### 1. Frontend Portfolio Website
 ![Frontend GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
@@ -39,8 +37,6 @@ Salom! Men **Black Hack**, turli texnologiyalar bo‘yicha tajribaga ega dasturc
 **Tech:** HTML, CSS, JavaScript, React, TailwindCSS  
 [🔗 Open Project](#)
 
----
-
 ### 2. Unity 3D Action Game
 ![Unity GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 **Muammo:** FPS past va o‘yin fizikasi optimallashtirilmagan  
@@ -48,8 +44,6 @@ Salom! Men **Black Hack**, turli texnologiyalar bo‘yicha tajribaga ega dasturc
 **Natija:** Smooth gameplay, barqaror FPS va realistik o‘yin muhiti  
 **Tech:** Unity, C#, Blender  
 [🔗 Open Project](#)
-
----
 
 ### 3. Advanced Telegram Bot
 ![Telegram GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
@@ -59,9 +53,63 @@ Salom! Men **Black Hack**, turli texnologiyalar bo‘yicha tajribaga ega dasturc
 **Tech:** Python, Telegram API, SQLite  
 [🔗 Open Project](#)
 
----
+### 4. AI NPC System
+![Placeholder](./ai_npc.png)
+**Muammo:** NPC’lar harakat va qaror qabul qilishda realistik emas edi  
+**Yechim:** Unity’da behavior tree va C# AI logic yaratildi  
+**Natija:** Realistik va interaktiv NPC’lar  
+**Tech:** Unity, C#, AI Logic  
+[🔗 Open Project](#)
 
-*(Shu uslubda barcha loyihalarga GIF preview va animated badges qo‘shiladi.)*
+### 5. Unity Car Game
+![Placeholder](./car_game.png)
+**Muammo:** Mashina fizikasi real emas va FPS past  
+**Yechim:** Custom vehicle physics, optimized wheel setup, Blender’da model va texture optimizatsiyasi  
+**Natija:** Realistik boshqaruv, barqaror FPS va Android optimizatsiyasi  
+**Tech:** Unity, C#, Blender  
+[🔗 Open Project](#)
+
+### 6. Python Automation Scripts
+![Placeholder](./python_auto.png)
+**Muammo:** Kundalik vazifalar qo‘lda bajarilmoqda  
+**Yechim:** Fayllarni avtomatik tashkil qilish, SMS va email jo‘natish, web scraping scriptlari yaratildi  
+**Natija:** Vazifalar avtomatlashtirildi, vaqt tejaldi va ish samaradorligi oshdi  
+**Tech:** Python, Selenium, smtplib, OS  
+[🔗 Open Project](#)
+
+### 7. PC Manager
+![Placeholder](./pc_manager.png)
+**Muammo:** Tizim resurslarini boshqarish qiyin edi  
+**Yechim:** Desktop resource monitor, startup manager va cleanup tools yaratildi  
+**Natija:** Kompyuter samaradorligi oshdi, foydalanuvchi interfeysi qulay  
+**Tech:** C#, .NET, WPF  
+[🔗 Open Project](#)
+
+### 8. Mobile Manager
+![Placeholder](./mobile_manager.png)
+**Muammo:** Mobile qurilmalarni boshqarish qiyin edi  
+**Yechim:** File manager, app control va notification monitoring qo‘shildi  
+**Natija:** Mobil qurilmalar samarali boshqariladi  
+**Tech:** Java/Kotlin, Swift, React Native  
+[🔗 Open Project](#)
+
+### 9. Camera Cracking
+![Placeholder](./camera_tools.png)
+**Muammo:** Video streamlarni tahlil qilish vositalari mavjud emas edi  
+**Yechim:** Camera access API va real-time stream analysis scriptlari yaratildi  
+**Natija:** Real-time monitoring, obyekt aniqlash va tahlil qilish imkoniyati mavjud  
+**Tech:** Python, OpenCV, Flask  
+[🔗 Open Project](#)
+
+### 10. Blender 3D
+![Placeholder](./blender.png)
+**Muammo:** O‘yin uchun 3D modellarning optimizatsiyasi past edi  
+**Yechim:** Polygon kamaytirish, texture baking va LOD yaratish  
+**Natija:** Optimized 3D assets, tez yuklanadigan o‘yin muhiti  
+**Tech:** Blender, Substance Painter  
+[🔗 Open Project](#)
+
+*(Shu tarzda qolgan barcha loyihalar: Rendering, Car Modeling, API Token Management, Auto Messaging, Copywriting, Data Ripper, Game Memory Tools, Vehicle Physics ham placeholder bilan tayyorlangan.)*
 
 ---
 
