@@ -99,10 +99,16 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <img src="https://img.shields.io/badge/blackhack0504@gmail.com
--red?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-@The_Abdullayev-blue?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Instagram-Doston_4ke-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:blackhack0504@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-blackhack0504@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/The_Abdullayev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@The_Abdullayev-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://instagram.com/Doston_4ke" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Doston_4ke-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
+
 
 
